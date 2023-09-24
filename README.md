@@ -1,4 +1,4 @@
-![logo](https://github.com/uddeshpujari1199/uddeshpujari1199/blob/main/pexels-lukas-574073.jpg)
+![logo](https://github.com/uddeshpujari1199/uddeshpujari1199/blob/main/pexels-markus-spiske-2764993.jpg)
 <h1 align="center">Hi 👋, I'm Uddesh Pujari</h1>
 <h3 align="center">I'm a Java Developer, a BSC.IT graduate in 2020 with a passion for web&App development. My journey in the world of coding began with HTML, CSS, and JavaScript, and I've been honing my skills in these technologies. I'm delving into the fascinating realms of Java, Data Structures, Algorithms, and OOPs Concepts through Geekster. I firmly believe in the power of continuous learning, and I'm always eager to explore new frontiers in the world of programming. I thrive on coding challenges and enjoy building meaningful projects that showcase my skills. Let's code and create amazing things!</h3>
 
